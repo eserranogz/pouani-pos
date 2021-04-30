@@ -18,6 +18,10 @@
         "logout": "Cerrar la sesión",
         "register": "Crear una cuenta"
       },
+      "main": {
+        "main": "Principal",
+        "sales": "Ventas"
+      },
       "admin": {
         "main": "Administración",
         "userManagement": "Gestión de usuarios",

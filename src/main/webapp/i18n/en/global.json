@@ -18,6 +18,10 @@
         "logout": "Sign out",
         "register": "Register"
       },
+      "main": {
+        "main": "Main",
+        "sales": "Sales"
+      },
       "admin": {
         "main": "Administration",
         "userManagement": "User management",

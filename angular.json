@@ -95,6 +95,7 @@
   },
   "defaultProject": "pouani-pos",
   "cli": {
+    "analytics": false,
     "packageManager": "npm"
   }
 }
